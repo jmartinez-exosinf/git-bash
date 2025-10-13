@@ -4,7 +4,7 @@ Este tutorial te guía paso a paso para validar, subir y sincronizar cambios en 
 
 ---
 
-## 🔍 1. Validar estatus de cambios
+## 🔍 1. Lo primero es validar si existen cambios pendientes por subir
 
 Este comando muestra los archivos modificados, nuevos o eliminados que aún no están preparados para el commit.
 
