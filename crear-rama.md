@@ -19,12 +19,6 @@ Este comando crea una nueva rama y te cambia automáticamente a ella.
 git checkout -b [nombre-de-la-rama]
 ```
 
-Reemplaza [nombre-de-la-rama] por el nombre que desees darle a tu nueva rama, por ejemplo:
-
-```git
-git checkout -b feature/login
-```
-
 ✅ Confirmar que estás en la nueva rama (opcional)
 Puedes verificar que estás en la nueva rama con
 
