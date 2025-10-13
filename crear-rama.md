@@ -4,7 +4,15 @@ Este tutorial te guía paso a paso para crear una nueva rama en tu repositorio u
 
 ---
 
-## 🔄 1. Cambiar a la rama base (`Desarrollo`)
+## 🔄 1. Primero verifica que no tengas cambios pendientes por subir
+
+Antes de crear una nueva rama, asegúrate de revisar si tienes cambios pendientes.
+
+```git
+git status
+```
+
+## 🔄 2. Cambiar a la rama base (`Desarrollo`)
 
 Antes de crear una nueva rama, asegúrate de estar en la rama desde la cual deseas partir. En este caso, la rama `Desarrollo`.
 
