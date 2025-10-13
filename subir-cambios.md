@@ -42,4 +42,6 @@ Envía los commits locales a la rama correspondiente en el repositorio remoto
 git push origin [nombre-de-la-rama]
 ```
 Ejemplo:
-git push origin feature/login
+```git
+git push origin Proyecto
+```
