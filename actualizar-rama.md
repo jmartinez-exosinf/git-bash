@@ -12,9 +12,9 @@ Este comando muestra los archivos modificados, nuevos o eliminados que aún no e
 git status
 ```
 
-statusMostrar más líneas
 
-## 📥 2. Subir cambios al área de staging
+
+## 📥 2. Este paso es en caso de tener cambios pendientes por subir
 Agrega todos los archivos modificados al área de preparación para el commit.
 
 ```git
