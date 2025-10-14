@@ -14,7 +14,7 @@ git status
 
 statusMostrar más líneas
 
-📥 2. Subir cambios al área de staging
+##📥 2. Subir cambios al área de staging
 Agrega todos los archivos modificados al área de preparación para el commit.
 
 ```git
