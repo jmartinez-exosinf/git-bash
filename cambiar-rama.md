@@ -13,15 +13,17 @@ Este tutorial te muestra cómo cambiar de rama en tu repositorio Git utilizando 
 ## 📋 Requisitos
 
 Asegúrate de tener Git versión 2.23 o superior. Puedes verificarlo con:
-
-
+```git
 git --version
+```
 
 ## 🚀 Cambiar de rama
 Para cambiar a una rama existente, usa:
-
+```git
 git switch nombre-de-la-rama
+```
 
 Ejemplo:
-
+```git
 git switch Desarrollo
+```
