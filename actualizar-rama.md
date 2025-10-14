@@ -11,7 +11,7 @@ Este comando muestra los archivos modificados, nuevos o eliminados que aún no e
 ```git
 git status
 ```
-
+En caso de tener cambios pendientes por subir, aparecerá el listado de archivos en color rojo
 
 
 ## 📥 2. Este paso es en caso de tener cambios pendientes por subir
