@@ -42,11 +42,11 @@ Envía los commits locales a la rama correspondiente en el repositorio remoto.
 git push origin [nombre-de-la-rama]
 ```
 
-🔄 6. Sincronizar con el repositorio remoto
+## 🔄 3. Sincronizar con el repositorio remoto
 Obtiene los últimos cambios del repositorio remoto sin aplicarlos directamente.
 
 ```git
-git fetch
+git fetch origin Desarrollo
 ```
 
 📤 7. Actualizar rama de desarrollo
