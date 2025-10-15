@@ -45,3 +45,10 @@ Ejemplo:
 ```git
 git push origin Proyecto
 ```
+
+### Errores comunes al subir cambios al repositorio remoto
+- Repositorio mal escrito o inexistente
+```git
+error: src refspec [RAMA] does not match any
+error: failed to push some refs to 'https://gitlab.tgv.com.ar/aam-soporte/icm-tools-9.git'
+```
