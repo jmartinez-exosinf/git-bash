@@ -12,7 +12,7 @@ Este comando agrega **todos los archivos modificados y nuevos** al área de prep
 git add .
 ```
 
-✅ 2. Verificar los archivos preparados
+## ✅ 2. Verificar los archivos preparado
 Este comando te permite revisar qué archivos están listos para ser confirmados (commit). Los archivos en verde están en el área de staging
 
 ```git
