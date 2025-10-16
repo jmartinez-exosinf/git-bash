@@ -8,15 +8,6 @@ Este tutorial te muestra cómo cambiar de rama en tu repositorio Git utilizando 
 
 `git switch` es un comando introducido en Git 2.23 para facilitar el cambio entre ramas. Es más intuitivo que el clásico `git checkout`.
 
----
-
-## 📋 Requisitos
-
-Asegúrate de tener Git versión 2.23 o superior. Puedes verificarlo con:
-```git
-git --version
-```
-
 ## 🚀 Cambiar de rama
 Para cambiar a una rama existente, usa:
 ```git
