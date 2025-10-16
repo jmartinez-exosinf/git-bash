@@ -29,7 +29,7 @@ Verifica que los archivos aparezcan en verde, lo que indica que están listos pa
 git status
 ```
 
-📝 4. Realizar commit
+### 📝 C. Realizar commit
 Guarda los cambios preparados con un mensaje descriptivo.
 
 ```git
