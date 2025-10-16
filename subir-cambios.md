@@ -1,4 +1,4 @@
-# 🚀 Mini Tutorial: Subir Cambios a un Repositorio Git
+# 🚀 Subir Cambios a un Repositorio Git
 
 Este tutorial te guía paso a paso para subir tus cambios locales a un repositorio remoto utilizando Git Bash.
 
