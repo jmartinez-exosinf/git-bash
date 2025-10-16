@@ -1,4 +1,4 @@
-# 🧪 Mini Tutorial: Actualización de Rama
+# 🧪 Actualización de Rama
 
 Este tutorial te guía paso a paso para validar, subir y sincronizar cambios en una rama de desarrollo utilizando Git Bash.
 
