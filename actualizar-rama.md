@@ -56,3 +56,10 @@ Descarga y aplica los últimos cambios de la rama Desarrollo desde el repositori
 ```git
 git pull origin Desarrollo
 ```
+
+## 4. En caso de existir conflictos
+
+### 4.A. En caso de existir conflictos aparecerá algo como esto:
+```git
+CONFLICT (content): Merge conflict in ICMTools/Controllers/PorcentajeVentaController.vb
+```
