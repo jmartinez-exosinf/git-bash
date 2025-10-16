@@ -16,7 +16,7 @@ En caso de tener cambios pendientes por subir, aparecerá el listado de archivos
 
 ## 📥 2. Este paso es en caso de tener cambios pendientes por subir
 
-### 2.A. Agrega todos los archivos modificados al área de preparación para el commit
+### A. Agrega todos los archivos modificados al área de preparación para el commit
 
 ```git
 git add .
