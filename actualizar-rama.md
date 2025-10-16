@@ -22,7 +22,7 @@ En caso de tener cambios pendientes por subir, aparecerá el listado de archivos
 git add .
 ```
 
-### ✅ 2.B. Validar cambios preparados (opcional)
+### ✅ B. Validar cambios preparados (opcional)
 Verifica que los archivos aparezcan en verde, lo que indica que están listos para el commit
 
 ```git
