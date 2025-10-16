@@ -15,13 +15,14 @@ En caso de tener cambios pendientes por subir, aparecerá el listado de archivos
 
 
 ## 📥 2. Este paso es en caso de tener cambios pendientes por subir
-Agrega todos los archivos modificados al área de preparación para el commit.
+
+### 2.A. Agrega todos los archivos modificados al área de preparación para el commit
 
 ```git
 git add .
 ```
 
-✅ 3. Validar cambios preparados (opcional)
+### ✅ 2.B. Validar cambios preparados (opcional)
 Verifica que los archivos aparezcan en verde, lo que indica que están listos para el commit
 
 ```git
