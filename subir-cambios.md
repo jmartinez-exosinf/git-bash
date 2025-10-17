@@ -19,8 +19,6 @@ Este comando te permite revisar qué archivos están listos para ser confirmados
 git status
 ```
 
-statusMostrar más líneas
-
 📝 3. Realizar el commit
 Guarda los cambios preparados con un mensaje descriptivo que explique qué se modificó
 
