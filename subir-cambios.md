@@ -33,7 +33,7 @@ git commit -m "Corrige validación de formulario de login"
 
 "Mostrar más líneas
 
-🌐 4. Subir los cambios al repositorio remoto
+## 🌐 4. Subir los cambios al repositorio remoto
 Envía los commits locales a la rama correspondiente en el repositorio remoto
 
 ```git
