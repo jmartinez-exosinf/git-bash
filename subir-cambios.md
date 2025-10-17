@@ -19,7 +19,7 @@ Este comando te permite revisar qué archivos están listos para ser confirmados
 git status
 ```
 
-📝 3. Realizar el commit
+## 📝 3. Realizar el commit
 Guarda los cambios preparados con un mensaje descriptivo que explique qué se modificó
 
 ```git
