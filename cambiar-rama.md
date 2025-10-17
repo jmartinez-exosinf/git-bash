@@ -1,4 +1,4 @@
-# 🔄 Mini Tutorial: Cambiar de Rama en Git con `git switch`
+# 🔄 Cambiar de Rama en Git
 
 Este tutorial te muestra cómo cambiar de rama en tu repositorio Git utilizando el comando moderno `git switch`.
 
