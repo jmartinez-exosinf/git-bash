@@ -1,4 +1,4 @@
-# 🌿 Mini Tutorial: Crear una Nueva Rama en Git
+# 🌿 Crear una Nueva Rama en Git
 
 Este tutorial te guía paso a paso para crear una nueva rama en tu repositorio utilizando Git Bash.
 
