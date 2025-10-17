@@ -37,7 +37,7 @@ Your branch is behind 'origin/Desarrollo' by 10 commits, and can be fast-forward
   (use "git pull" to update your local branch)
 ```
 
-🌱 2. Crear una nueva rama
+## 🌱 3. Crear una nueva rama
 Este comando crea una nueva rama y te cambia automáticamente a ella.
 
 ```git
