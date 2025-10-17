@@ -12,6 +12,14 @@ Antes de crear una nueva rama, asegúrate de revisar si tienes cambios pendiente
 git status
 ```
 
+Si no tienes cambios pendientes por subir te debe aparecer algo como esto:
+```git
+jmartinez@ESIDELL04 MINGW64 /c/git/icm-tools-9 (TiendasGanadoras)
+$ git status
+On branch TiendasGanadoras
+nothing to commit, working tree clean
+```
+
 ## 🔄 2. Cambiar a la rama base (`Desarrollo`)
 
 Antes de crear una nueva rama, asegúrate de estar en la rama desde la cual deseas partir. En este caso, la rama `Desarrollo`.
