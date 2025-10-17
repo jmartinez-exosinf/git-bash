@@ -28,6 +28,15 @@ Antes de crear una nueva rama, asegúrate de estar en la rama desde la cual dese
 git switch Desarrollo
 ```
 
+Si al ejecutar este comando te aparece algo como esto, significa que tienes cambios pendientes por actualizar en tu rama de Desarrollo local:
+```git
+jmartinez@ESIDELL04 MINGW64 /c/git/icm-tools-9 (TiendasGanadoras)
+$ git switch Desarrollo
+Switched to branch 'Desarrollo'
+Your branch is behind 'origin/Desarrollo' by 10 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+```
+
 🌱 2. Crear una nueva rama
 Este comando crea una nueva rama y te cambia automáticamente a ella.
 
