@@ -14,7 +14,7 @@ git status
 En caso de tener cambios pendientes por subir, aparecerá el listado de archivos en color rojo
 
 
-## 📥 2. Este paso es en caso de tener cambios pendientes por subir
+## 📥 2. Si tienes cambios pendientes por subir
 
 ### A. Agrega todos los archivos modificados al área de preparación para el commit
 
