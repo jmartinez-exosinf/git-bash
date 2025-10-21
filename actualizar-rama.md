@@ -59,7 +59,9 @@ git pull origin Desarrollo
 
 ## 4. En caso de existir conflictos
 
-### 4.A. En caso de existir conflictos aparecerá algo como esto:
+### A. En caso de existir conflictos aparecerá algo como esto:
 ```git
 CONFLICT (content): Merge conflict in ICMTools/Controllers/PorcentajeVentaController.vb
 ```
+
+### B. Corrige los conflictos en Visual Studio
