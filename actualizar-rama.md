@@ -63,6 +63,8 @@ Descarga y aplica los últimos cambios de la rama Desarrollo desde el repositori
 git pull origin Desarrollo
 ```
 
+En caso de aparecer la pantalla de unix, presiona ESC y posteriormente teclea ```:wq```
+
 ## 4. En caso de existir conflictos
 
 ### A. En caso de existir conflictos aparecerá algo como esto:
