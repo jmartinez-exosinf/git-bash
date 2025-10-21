@@ -23,12 +23,21 @@ nothing to commit, working tree clean
 ## 🔄 2. Cambiar a la rama base (`Desarrollo`)
 
 Antes de crear una nueva rama, asegúrate de estar en la rama desde la cual deseas partir. En este caso, la rama `Desarrollo`.
-
 ```git
 git switch Desarrollo
 ```
 
-Si al ejecutar este comando te aparece algo como esto, significa que tienes cambios pendientes por actualizar en tu rama de Desarrollo local:
+Si todo se ejecuta correctamente te debe aparecer algo como esto:
+```git
+jmartinez@ESIDELL04 MINGW64 /c/git/icm-tools-9 (F2-TiendasGanadoras)
+$ git switch Desarrollo
+Switched to branch 'Desarrollo'
+Your branch is up to date with 'origin/Desarrollo'.
+
+jmartinez@ESIDELL04 MINGW64 /c/git/icm-tools-9 (Desarrollo)
+```
+
+En caso contrario, si te aparece algo como esto, significa que tienes cambios pendientes por actualizar en tu rama de Desarrollo local:
 ```git
 jmartinez@ESIDELL04 MINGW64 /c/git/icm-tools-9 (TiendasGanadoras)
 $ git switch Desarrollo
