@@ -11,8 +11,14 @@ Este comando muestra los archivos modificados, nuevos o eliminados que aún no e
 ```git
 git status
 ```
-En caso de tener cambios pendientes por subir, aparecerá el listado de archivos en color rojo
 
+Si no tienes cambios pendientes por subir te debe aparecer algo como esto:
+```git
+jmartinez@ESIDELL04 MINGW64 /c/git/icm-tools-9 (F2-PorcentajeVenta)
+$ git status
+On branch F2-PorcentajeVenta
+nothing to commit, working tree clean
+```
 
 ## 📥 2. Si tienes cambios pendientes por subir
 
