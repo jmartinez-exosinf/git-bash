@@ -50,3 +50,8 @@ git push origin Proyecto
 error: src refspec [RAMA] does not match any
 error: failed to push some refs to 'https://gitlab.tgv.com.ar/aam-soporte/icm-tools-9.git'
 ```
+
+## 🌐 5. Verifica que los cambios se hayan guardado
+```git
+git status
+```
