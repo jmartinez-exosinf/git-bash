@@ -50,7 +50,7 @@ Obtiene los últimos cambios del repositorio remoto sin aplicarlos directamente.
 git fetch origin Desarrollo
 ```
 
-📤 7. Actualizar rama de desarrollo
+📤 Actualizar rama de desarrollo
 Descarga y aplica los últimos cambios de la rama Desarrollo desde el repositorio remoto
 
 ```git
