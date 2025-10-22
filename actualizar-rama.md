@@ -79,7 +79,9 @@ Descarga y aplica los últimos cambios de la rama Desarrollo desde el repositori
 git pull origin Desarrollo
 ```
 
-En caso de aparecer la pantalla de unix, presiona ESC y posteriormente teclea ```:wq```
+### En caso de aparecer la pantalla de unix
+- Presiona ESC y posteriormente teclea ```:wq```
+- Finalmente escribe ```git status``` para confirmar que todo este correcto
 
 ## 4. En caso de existir conflictos
 
