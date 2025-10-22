@@ -20,6 +20,22 @@ On branch F2-PorcentajeVenta
 nothing to commit, working tree clean
 ```
 
+Caso contrario, te aparecerá algo como esto:
+```git
+jmartinez@ESIDELL04 MINGW64 /c/git/icm-tools-9 (F2-TiendasGanadoras)
+$ git status
+On branch F2-TiendasGanadoras
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   ICMTools/Controllers/TiendasGanadorasController.vb
+        modified:   ICMTools/Pages/TiendasGanadoras.aspx
+        modified:   ICMTools/Pages/TiendasGanadoras.aspx.designer.vb
+        modified:   ICMTools/js/TiendasGanadoras.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+```
+
 ## 📥 2. Si tienes cambios pendientes por subir
 
 ### A. Agrega todos los archivos modificados al área de preparación para el commit
