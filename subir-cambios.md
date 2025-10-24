@@ -62,3 +62,11 @@ error: failed to push some refs to 'https://gitlab.tgv.com.ar/aam-soporte/icm-to
 ```git
 git status
 ```
+
+Si todo esta correcto, te debe aparecer algo similar a lo siguiente:
+jmartinez@ESIDELL04 MINGW64 /c/git/icm-tools-9 (F2-TiendasGanadoras)
+```git
+$ git status
+On branch F2-TiendasGanadoras
+nothing to commit, working tree clean
+```
