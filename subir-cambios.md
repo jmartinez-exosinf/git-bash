@@ -11,6 +11,19 @@ Utiliza este comando para verificar que aparezcan los archivos que haz editado
 git status
 ```
 
+En rojo aparecerán los archivos pendientes de subir
+```git
+jmartinez@ESIDELL04 MINGW64 /c/git/icm-tools-9 (F2-PorcentajeVenta)
+$ git status
+On branch F2-PorcentajeVenta
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   ICMTools/Controllers/PorcentajeVentaController.vb
+        modified:   ICMTools/Pages/PorcentajeVenta.aspx
+        modified:   ICMTools/js/PorcentajeVenta.js
+```
+
 ## 📥 1. Agregar archivos al área de staging
 
 Este comando agrega **todos los archivos modificados y nuevos** al área de preparación para el commit:
