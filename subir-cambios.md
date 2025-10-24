@@ -4,6 +4,13 @@ Este tutorial te guía paso a paso para subir tus cambios locales a un repositor
 
 ---
 
+## ✅ 1. Verificar los archivos editados
+Utiliza este comando para verificar que aparezcan los archivos que haz editado
+
+```git
+git status
+```
+
 ## 📥 1. Agregar archivos al área de staging
 
 Este comando agrega **todos los archivos modificados y nuevos** al área de preparación para el commit:
