@@ -34,6 +34,7 @@ $ git switch Desarrollo
 Switched to branch 'Desarrollo'
 Your branch is up to date with 'origin/Desarrollo'.
 ```
+De ser así, ve al paso 3.
 
 En caso contrario, si te aparece algo como esto, significa que tienes cambios pendientes por actualizar en tu rama de Desarrollo local:
 ```git
