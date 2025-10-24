@@ -33,8 +33,6 @@ jmartinez@ESIDELL04 MINGW64 /c/git/icm-tools-9 (F2-TiendasGanadoras)
 $ git switch Desarrollo
 Switched to branch 'Desarrollo'
 Your branch is up to date with 'origin/Desarrollo'.
-
-jmartinez@ESIDELL04 MINGW64 /c/git/icm-tools-9 (Desarrollo)
 ```
 
 En caso contrario, si te aparece algo como esto, significa que tienes cambios pendientes por actualizar en tu rama de Desarrollo local:
