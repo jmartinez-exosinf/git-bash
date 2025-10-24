@@ -19,6 +19,7 @@ $ git status
 On branch F2-PorcentajeVenta
 nothing to commit, working tree clean
 ```
+De ser así, ve al Paso 3.
 
 Caso contrario, te aparecerá algo como esto:
 ```git
