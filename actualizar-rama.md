@@ -81,8 +81,18 @@ git pull origin Desarrollo
 ```
 
 ### En caso de aparecer la pantalla de unix
-- Presiona ESC y posteriormente teclea ```:wq```
-- Finalmente escribe ```git status``` para confirmar que todo este correcto
+Presiona ESC y posteriormente teclea ```:wq```
+
+Si todo esta correcto te debe aparecer algo como lo siguiente:
+```git
+jmartinez@ESIDELL04 MINGW64 /c/git/icm-tools-9 (F2-PorcentajeVenta)
+$ git pull origin Desarrollo
+From https://gitlab.tgv.com.ar/aam-soporte/icm-tools-9
+ * branch            Desarrollo -> FETCH_HEAD
+Already up to date.
+```
+
+Finalmente escribe ```git status``` para confirmar que todo este correcto
 
 ## 4. En caso de existir conflictos
 
