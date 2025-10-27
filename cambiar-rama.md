@@ -18,3 +18,13 @@ Ejemplo:
 ```git
 git switch Desarrollo
 ```
+
+En caso de tener cambios pendientes por subir te aparecerá el siguiente mensaje:
+```git
+jmartinez@ESIDELL04 MINGW64 /c/git/icm-tools-9 (F2-PorcentajeVenta)
+$ git switch F2-CategoriaMontosMetas
+error: Your local changes to the following files would be overwritten by checkout:
+        ICMTools/Controllers/PorcentajeVentaController.vb
+Please commit your changes or stash them before you switch branches.
+Aborting
+```
