@@ -31,3 +31,6 @@ Este comando te muestra la rama actual en la que estás trabajando
 ```git
 git status
 ```
+
+# Temas Relacionados
+- [Subir Cambios](https://github.com/jmartinez-exosinf/git-bash/blob/main/subir-cambios.md)
