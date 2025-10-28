@@ -37,34 +37,9 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
 
-## 📥 2. Si tienes cambios pendientes por subir
+En caso de tener cambios pendientes por subir, ve al siguiente enlace:
+[Subir Cambios](https://github.com/jmartinez-exosinf/git-bash/blob/main/subir-cambios.md)
 
-### A. Agrega todos los archivos modificados al área de preparación para el commit
-
-```git
-git add .
-```
-
-### B. Validar cambios preparados (opcional)
-Verifica que los archivos aparezcan en verde, lo que indica que están listos para el commit
-
-```git
-git status
-```
-
-### 📝 C. Realizar commit
-Guarda los cambios preparados con un mensaje descriptivo.
-
-```git
-git commit -m "[Descripción del cambio]"
-```
-
-🚀 5. Subir cambios al repositorio remoto (opcional)
-Envía los commits locales a la rama correspondiente en el repositorio remoto.
-
-```git
-git push origin [nombre-de-la-rama]
-```
 
 ## 🔄 3. Sincronizar con el repositorio remoto
 Obtiene los últimos cambios del repositorio remoto sin aplicarlos directamente.
