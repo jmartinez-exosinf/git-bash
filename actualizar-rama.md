@@ -41,7 +41,7 @@ En caso de tener cambios pendientes por subir, ve al siguiente enlace:
 [Subir Cambios](https://github.com/jmartinez-exosinf/git-bash/blob/main/subir-cambios.md)
 
 
-## 🔄 3. Sincronizar con el repositorio remoto
+## 🔄 2. Sincronizar con el repositorio remoto
 Obtiene los últimos cambios del repositorio remoto sin aplicarlos directamente.
 
 ```git
