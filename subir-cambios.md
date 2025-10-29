@@ -59,6 +59,7 @@ Envía los commits locales a la rama correspondiente en el repositorio remoto
 ```git
 git push origin [nombre-de-la-rama]
 ```
+
 Ejemplo:
 ```git
 git push origin Proyecto
@@ -83,6 +84,11 @@ hint: have locally. This is usually caused by another repository pushing to
 hint: the same ref. If you want to integrate the remote changes, use
 hint: 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+```
+
+En este caso deberás ingresar el comando ```pull```
+```git
+git pull origin [nombre-de-la-rama]
 ```
 
 ## 🌐 5. Verifica que los cambios se hayan guardado
