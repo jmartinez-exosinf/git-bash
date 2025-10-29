@@ -19,7 +19,6 @@ $ git status
 On branch F2-PorcentajeVenta
 nothing to commit, working tree clean
 ```
-De ser así, ve al Paso 3.
 
 Caso contrario, te aparecerá algo como esto:
 ```git
@@ -37,7 +36,7 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
 
-En caso de tener cambios pendientes por subir, ve al siguiente enlace:
+Por lo que debes ir al siguiente enlace antes de continuar:
 [Subir Cambios](https://github.com/jmartinez-exosinf/git-bash/blob/main/subir-cambios.md)
 
 
@@ -69,7 +68,7 @@ Already up to date.
 
 Finalmente escribe ```git status``` para confirmar que todo este correcto
 
-## 4. En caso de existir conflictos
+## 3. En caso de existir conflictos
 
 ### A. En caso de existir conflictos aparecerá algo como esto:
 ```git
