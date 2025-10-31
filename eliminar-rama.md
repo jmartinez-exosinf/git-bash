@@ -1,4 +1,4 @@
-# 🗑️ Mini Tutorial: Eliminar una Rama en Git
+# 🗑️ Eliminar una Rama en Git
 
 Este tutorial te muestra cómo eliminar una rama en Git, tanto local como remotamente.
 
