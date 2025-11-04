@@ -1,15 +1,14 @@
-# 📘 Mini Tutorial: Uso del comando git status en Git Bash
+# 📘 Uso del comando git status en Git Bash
 El comando git status es una herramienta esencial para cualquier desarrollador que trabaje con Git. Te permite conocer el estado actual de tu repositorio y tomar decisiones informadas antes de realizar un commit.
 
-🧠 ¿Para qué sirve git status?
+# 🧠 ¿Para qué sirve git status?
 Este comando muestra:
-
-La rama actual en la que estás trabajando.
-Si tu rama está actualizada con respecto al repositorio remoto.
-Qué archivos han sido modificados pero aún no están preparados para el commit.
-Qué archivos están preparados para el commit (staged).
-Si hay archivos nuevos no rastreados (untracked).
-Si hay archivos eliminados o renombrados.
+- La rama actual en la que estás trabajando.
+- Si tu rama está actualizada con respecto al repositorio remoto.
+- Qué archivos han sido modificados pero aún no están preparados para el commit.
+- Qué archivos están preparados para el commit (staged).
+- Si hay archivos nuevos no rastreados (untracked).
+- Si hay archivos eliminados o renombrados.
 
 
 🖥️ Ejemplo de uso
