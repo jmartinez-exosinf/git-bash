@@ -4,7 +4,7 @@ Este tutorial te guía paso a paso para validar, subir y sincronizar cambios en 
 
 ---
 
-## 🔍 1. Lo primero es validar si existen cambios pendientes por subir
+## 🔍 1. (Opcional) Valida si existen cambios pendientes por subir
 
 Este comando muestra los archivos modificados, nuevos o eliminados que aún no están preparados para el commit.
 
@@ -38,7 +38,6 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 Por lo que debes ir al siguiente enlace antes de continuar:
 [Subir Cambios](https://github.com/jmartinez-exosinf/git-bash/blob/main/subir-cambios.md)
-
 
 ## 🔄 2. Sincronizar con el repositorio remoto
 Obtiene los últimos cambios del repositorio remoto sin aplicarlos directamente.
