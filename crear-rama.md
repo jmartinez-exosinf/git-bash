@@ -66,3 +66,5 @@ git branch
 ```
 
 La rama actual aparecerá marcada con un asterisco *.
+
+> Última Revisión: Ma, 25/Nov/25
