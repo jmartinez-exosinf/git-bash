@@ -75,3 +75,5 @@ CONFLICT (content): Merge conflict in ICMTools/Controllers/PorcentajeVentaContro
 ```
 
 ### B. Corrige los conflictos en Visual Studio
+
+### C. Sube los cambios a GitHub
