@@ -23,7 +23,10 @@ Elimina cualquier cambio no guardado (sin add ni commit).
 
 
 ✅ Verificar que se aplicó correctamente
+
 Después de ejecutar el comando, puedes usar:
 ```bash
 git status
 ```
+
+> Última modificación: Viernes, 05 de Diciembre de 2025
