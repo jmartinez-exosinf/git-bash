@@ -11,3 +11,6 @@ Este tutorial te guía paso a paso para validar, subir y sincronizar cambios en 
 
 ## [🧨 Deshacer Todos los Cambios y Volver al Último Commit en Git](deshacer-cambios.md)
 Este tutorial te muestra cómo **descartar todos los cambios locales** y regresar al último commit confirmado en tu repositorio Git utilizando Git Bash.
+
+# [🔍 ¿Qué hace git diff?](git-diff.md)
+`git diff` compara diferencias entre archivos en distintas áreas del repositorio.
